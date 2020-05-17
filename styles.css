@@ -1,0 +1,25 @@
+body{
+    background-color: #eee;
+    color: #333;
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 1.4;
+    height: 100%;
+    position: relative;
+    text-rendering: optimizeLegibility;
+    z-index: -1;
+}
+
+.container{
+    background-color: white;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.img{
+    width: 150px;
+}
+.content{
+    padding: 50px;
+}
